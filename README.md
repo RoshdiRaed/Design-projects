@@ -31,4 +31,4 @@
 ----------------------------------------------------------------------------------------------
 
 - Square Sircle
-<img src="Image of design/square circle.png">
+<img src="Image of design/square circle.jpg">
